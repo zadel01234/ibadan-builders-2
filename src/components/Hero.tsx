@@ -20,7 +20,7 @@ export default function Hero() {
           </motion.div>
 
           <motion.p className="hero-eyebrow" custom={1} variants={fadeUp} initial="hidden" animate="visible">
-            Ibadan · Saturday, 23rd May 2027
+            Ibadan · Saturday, 23rd May 2026
           </motion.p>
 
           <motion.h1 custom={2} variants={fadeUp} initial="hidden" animate="visible">
@@ -61,7 +61,7 @@ export default function Hero() {
               </div>
               <div>
                 <div className="detail-key">Date</div>
-                <div className="detail-val">Saturday, 23rd May 2027</div>
+                <div className="detail-val">Saturday, 23rd May 2026</div>
               </div>
             </div>
 

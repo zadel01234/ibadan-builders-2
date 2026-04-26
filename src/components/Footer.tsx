@@ -27,9 +27,9 @@ export default function Footer() {
         </div>
 
         <div className="footer-bottom">
-          <p>© 2027 Oyo Talent Tribe × Talenxify. All rights reserved.</p>
+          <p>© 2026 Oyo Talent Tribe × Talenxify. All rights reserved.</p>
           <span className="footer-event-detail">
-            Saturday, 23rd May 2027 · 12:00 PM – 5:00 PM WAT · NOTZERO Innovation Hub, Ibadan
+            Saturday, 23rd May 2026 · 12:00 PM – 5:00 PM WAT · NOTZERO Innovation Hub, Ibadan
           </span>
         </div>
       </div>

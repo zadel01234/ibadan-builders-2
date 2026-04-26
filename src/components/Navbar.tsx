@@ -33,7 +33,7 @@ export default function Navbar() {
             </div>
             <div>
               <div className="nav-logo-name">Ibadan Builders</div>
-              <div className="nav-logo-sub">Meetup 2027</div>
+              <div className="nav-logo-sub">Meetup 2026</div>
             </div>
           </a>
 
