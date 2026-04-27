@@ -39,7 +39,7 @@ export default function About() {
           <div className="section-eyebrow"><span className="dot" />About the Event</div>
           <h2 className="section-title">Empowering Builders to<br />Become Impactful Storytellers</h2>
           <p className="section-sub">
-            The primary goal of this programme is to empower builders and technical talents to evolve into impactful storytellers — positioning themselves for global opportunities and high-level networking.
+            We help builders and technical talents transform their work into compelling stories that open doors, from global opportunities to meaningful connections and high-level networks.
           </p>
         </motion.div>
 
@@ -51,8 +51,7 @@ export default function About() {
           >
             <div className="about-text">
               <p>
-                By documenting their professional journeys and track records, participants will be equipped to present themselves to a global audience. This meetup goes beyond code — it is about visibility, credibility, and the kind of communication that opens real doors.
-              </p>
+                By documenting their work and track record, participants position themselves for global visibility. This meetup goes beyond code — it focuses on building credibility and communicating in a way that attracts real opportunities.              </p>
               <p>
                 With support from Talenxify, the event amplifies community-led products, ensures ecosystem sustainability, and builds a robust pipeline for future talent-hiring solutions across Ibadan and beyond.
               </p>

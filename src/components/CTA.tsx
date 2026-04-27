@@ -2,11 +2,11 @@ import { motion } from 'framer-motion'
 import { useInView } from './useInView'
 
 const highlights = [
-  { text: '3 curated panel sessions' },
-  { text: 'Keynote address by a featured speaker' },
-  { text: 'Premium Networking' },
-  { text: 'Access to our Premium Swags' },
-  { text: 'Venue details shared upon registration' },
+  { text: '3 curated panel sessions featuring industry insights.' },
+  { text: 'A keynote address from a featured speaker.' },
+  { text: 'High-value networking with builders, creatives, and industry professionals.' },
+  { text: 'Exclusive event merch.' },
+  { text: 'Venue details shared upon registration.' },
 ]
 
 export default function CTA() {
@@ -54,7 +54,7 @@ export default function CTA() {
             <div style={{ paddingTop: '16px', borderTop: '1px solid rgba(255,255,255,0.08)', display: 'flex', alignItems: 'center', gap: '10px' }}>
               <div style={{ width: '8px', height: '8px', borderRadius: '50%', background: 'var(--blue-mid)', flexShrink: 0, animation: 'pulse 2s infinite' }} />
               <span style={{ fontSize: '0.78rem', color: 'rgba(255,255,255,0.3)', fontFamily: 'var(--font-body)', fontWeight: 600 }}>
-                Ticketing: EventPulse · Partner: Skygrid
+                Ticketing: EventPulse · Partner: Skygrid, Talenxify
               </span>
             </div>
           </div>
