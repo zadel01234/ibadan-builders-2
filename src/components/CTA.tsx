@@ -4,8 +4,8 @@ import { useInView } from './useInView'
 const highlights = [
   { text: '3 curated panel sessions' },
   { text: 'Keynote address by a featured speaker' },
-  { text: '80 – 120 builders, creators & talent' },
-  { text: 'NOTZERO Innovation Hub, Ibadan' },
+  { text: 'Premium Networking' },
+  { text: 'Access to our Premium Swags' },
   { text: 'Venue details shared upon registration' },
 ]
 
@@ -23,7 +23,7 @@ export default function CTA() {
           transition={{ duration: 0.65 }}
         >
           <div>
-            <div className="cta-eyebrow">Saturday, 23rd May 2026 · 12:00 PM WAT</div>
+            <div className="cta-eyebrow">Saturday, 23rd May 2026 · 11:00 AM WAT</div>
             <h2 className="cta-title">Secure Your Spot at the Meetup</h2>
             <p className="cta-desc">
               Registration is handled through EventPulse. Venue details will be shared upon successful registration. Spots are limited — don't wait.

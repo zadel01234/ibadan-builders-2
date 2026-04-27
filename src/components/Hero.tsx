@@ -14,10 +14,6 @@ export default function Hero() {
       <div className="container">
         {/* LEFT */}
         <div>
-          <motion.div className="hero-badge" custom={0} variants={fadeUp} initial="hidden" animate="visible">
-            <span className="pulse" />
-            <span>Oyo Talent Tribe × Talenxify Presents</span>
-          </motion.div>
 
           <motion.p className="hero-eyebrow" custom={1} variants={fadeUp} initial="hidden" animate="visible">
             Ibadan · Saturday, 23rd May 2026
@@ -29,7 +25,7 @@ export default function Hero() {
           </motion.h1>
 
           <motion.p className="hero-sub" custom={3} variants={fadeUp} initial="hidden" animate="visible">
-            Bridging the gap between Technical Talent and Storytelling. Empowering builders to document their journeys, position themselves for global opportunities, and build meaningful connections.
+            Empowering builders to document their journeys, position themselves for global opportunities, and build meaningful connections.
           </motion.p>
 
           <motion.div className="hero-actions" custom={4} variants={fadeUp} initial="hidden" animate="visible">
@@ -37,7 +33,7 @@ export default function Hero() {
               Get Your Ticket
               <svg viewBox="0 0 24 24" width="15" height="15" stroke="currentColor" fill="none" strokeWidth="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
             </a>
-            <a href="#about" className="btn-outline">Learn More</a>
+            <a href="https://talenttribe.atcafrica.com/" target="_blank" className="btn-outline">Join Our Community</a>
           </motion.div>
         </div>
 
@@ -71,7 +67,7 @@ export default function Hero() {
               </div>
               <div>
                 <div className="detail-key">Time</div>
-                <div className="detail-val">12:00 PM – 5:00 PM WAT</div>
+                <div className="detail-val">11:00 AM WAT</div>
               </div>
             </div>
 
@@ -81,24 +77,14 @@ export default function Hero() {
               </div>
               <div>
                 <div className="detail-key">Venue</div>
-                <div className="detail-val">NOTZERO Innovation Hub, Ibadan</div>
-              </div>
-            </div>
-
-            <div className="detail-item">
-              <div className="detail-icon">
-                <svg viewBox="0 0 24 24"><path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 00-3-3.87"/><path d="M16 3.13a4 4 0 010 7.75"/></svg>
-              </div>
-              <div>
-                <div className="detail-key">Expected Attendance</div>
-                <div className="detail-val">80 – 120 Participants</div>
+                <div className="detail-val">Venue Disclosed Upon Registration</div>
               </div>
             </div>
 
             <div className="hero-card-stats">
               <div className="hero-stat"><div className="n">3</div><div className="l">Panels</div></div>
               <div className="hero-stat"><div className="n">10+</div><div className="l">Speakers</div></div>
-              <div className="hero-stat"><div className="n">5hrs</div><div className="l">Programme</div></div>
+              <div className="hero-stat"><div className="n">1</div><div className="l">Event</div></div>
             </div>
           </div>
         </motion.div>

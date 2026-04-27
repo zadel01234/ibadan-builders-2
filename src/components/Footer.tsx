@@ -4,7 +4,6 @@ export default function Footer() {
     { label: 'About', href: '#about' },
     { label: 'Speakers', href: '#speakers' },
     { label: 'Sponsors', href: '#sponsors' },
-    { label: 'Register', href: '#register' },
   ]
 
   return (
@@ -16,7 +15,7 @@ export default function Footer() {
               Ibadan Builders, Talent <span>& Creators</span> Meetup
             </div>
             <div className="footer-brand-desc">
-              Presented by Oyo Talent Tribe × Talenxify. Bridging the gap between Technical Talent and Storytelling.
+              By Oyo Talent Tribe - A community of Tech Talent in Oyo State.
             </div>
           </div>
           <nav className="footer-nav">
@@ -29,7 +28,7 @@ export default function Footer() {
         <div className="footer-bottom">
           <p>© 2026 Oyo Talent Tribe × Talenxify. All rights reserved.</p>
           <span className="footer-event-detail">
-            Saturday, 23rd May 2026 · 12:00 PM – 5:00 PM WAT · NOTZERO Innovation Hub, Ibadan
+            Saturday, 23rd May 2026 · 11:00 AM WAT · Venue Disclosed Upon Registration
           </span>
         </div>
       </div>
