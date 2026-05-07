@@ -330,9 +330,9 @@ const logos = [
   { name: 'Talenxify', src: '/talenxify-logo.png' },
   { name: 'EventPulse', src: '/Oyo Talent Tribe logo.png' },
   { name: 'Oyo', src: '/oyo logo.png' },
-  { name: 'Creative', src: '/CREATIVITE™.png' },
-  { name: 'Eventpulse', src: '/public/eventpulse.png' },
-  { name: 'Techeconomy', src: '/public/techeconomy.png' },
+  { name: 'Creative', src: '/CREATIVITE.png' },
+  { name: 'Eventpulse', src: '/eventpulse.png' },
+  { name: 'Techeconomy', src: '/techeconomy.png' },
 ]
 
 const tiers = [

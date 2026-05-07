@@ -28,7 +28,7 @@ export default function Footer() {
         <div className="footer-bottom">
           <p>© 2026 Oyo Talent Tribe × Talenxify. All rights reserved.</p>
           <span className="footer-event-detail">
-            Saturday, 23rd May 2026 · 11:00 AM WAT · Venue Disclosed Upon Registration
+            Saturday, 23rd May 2026 · 11:00 AM WAT · NOTZERO Innovation Hub, Akobo Ibadan
           </span>
         </div>
       </div>
