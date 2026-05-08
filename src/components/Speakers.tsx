@@ -128,6 +128,12 @@ const speakers = [
     image: '/speaker11.jpg',
     tag: 'Industry Leader',
   },
+  {
+    name: 'Ayo Adams',
+    role: 'Content Creator',
+    image: '/speaker12.jpeg',
+    tag: 'Creator',
+  },
 ]
 
 const tagColors: Record<string, { bg: string; color: string }> = {
