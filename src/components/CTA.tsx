@@ -75,7 +75,6 @@ const highlights = [
   { text: 'A keynote address from a featured speaker.' },
   { text: 'High-value networking with builders, creatives, and industry professionals.' },
   { text: 'Exclusive event merch.' },
-  { text: 'Venue details shared upon registration.' },
 ]
 
 const overlayVariants = {
@@ -114,7 +113,7 @@ export default function CTA() {
               <div className="cta-eyebrow">Saturday, 23rd May 2026 · 11:00 AM WAT</div>
               <h2 className="cta-title">Secure Your Spot at the Meetup</h2>
               <p className="cta-desc">
-                Registration is handled through EventPulse. Spots are limited — don't wait. NOTZERO Innovation Hub, Akobo Ibadan.
+                Registration is handled through EventPulse. Spots are limited — don't wait. Sebs Hub, 32 Awolowo Ave- Bodija Ibadan.
               </p>
               <div style={{ marginTop: '32px', display: 'flex', gap: '14px', flexWrap: 'wrap' }}>
                 <button onClick={() => setShowModal(true)} className="btn-primary">

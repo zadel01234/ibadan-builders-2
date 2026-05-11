@@ -190,7 +190,7 @@ export default function Hero() {
               </div>
               <div>
                 <div className="detail-key">Venue</div>
-                <div className="detail-val">NOTZERO Innovation Hub, Akobo Ibadan</div>
+                <div className="detail-val">Sebs Hub, 32 Awolowo Ave- Bodija Ibadan</div>
               </div>
             </div>
 
