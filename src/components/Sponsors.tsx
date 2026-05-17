@@ -331,8 +331,12 @@ const logos = [
   { name: 'EventPulse', src: '/Oyo Talent Tribe logo.png' },
   { name: 'Oyo', src: '/oyo logo.png' },
   { name: 'Creative', src: '/CREATIVITE.png' },
+  { name: 'Sebs', src: '/sebs.jpeg' },
   { name: 'Eventpulse', src: '/eventpulse.png' },
   { name: 'Techeconomy', src: '/techeconomy.png' },
+  { name: 'Pody', src: '/pody.jpeg' },
+  { name: 'Ript', src: '/ript.jpeg' },
+  { name: 'techies', src: '/techies.jpeg' },
 ]
 
 const tiers = [
